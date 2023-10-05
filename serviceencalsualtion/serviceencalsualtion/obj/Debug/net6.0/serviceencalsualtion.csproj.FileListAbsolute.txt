@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\bin\Debug\net6.0\serviceencalsualtion.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\bin\Debug\net6.0\serviceencalsualtion.deps.json
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\bin\Debug\net6.0\serviceencalsualtion.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\bin\Debug\net6.0\serviceencalsualtion.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\bin\Debug\net6.0\serviceencalsualtion.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\refint\serviceencalsualtion.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\serviceencalsualtion.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\serviceencalsualtion\serviceencalsualtion\obj\Debug\net6.0\ref\serviceencalsualtion.dll
