@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\bin\Debug\net6.0\Calculation.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\bin\Debug\net6.0\Calculation.deps.json
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\bin\Debug\net6.0\Calculation.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\bin\Debug\net6.0\Calculation.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
